@@ -1,0 +1,16 @@
+# Libraries used in this project
+# To install them: pip install -r requirements.txt
+
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+yfinance
+pyarrow
+scikit-learn
+pymc>=5.0
+arviz
+jupyter
+ipykernel
+pytest
